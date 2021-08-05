@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey, I'm Peter! 👋
+
+I'm currently persuing a Masters of Environmental Data Science degree at the Bren School at UCSB, where I'm learning how to address environmental problems with data science techniques using R and Python. I'm particularly interested in climate change mitigation strategies. 
 
 <!--
 **petermenzies/petermenzies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
